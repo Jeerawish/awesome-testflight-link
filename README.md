@@ -216,6 +216,7 @@ _✅ These 295 apps are currently accepting new testers! Click the links to join
 | RocketChat | [https://testflight.apple.com/join/3gcYeoMr](https://testflight.apple.com/join/3gcYeoMr) | Y | 2025-12-22 |
 | Rukn ERM Risk Register | [https://testflight.apple.com/join/ZsFnfJeX](https://testflight.apple.com/join/ZsFnfJeX) | Y | 2026-08-19 |
 | Ruuvi Station | [https://testflight.apple.com/join/loHFrEV1](https://testflight.apple.com/join/loHFrEV1) | Y | 2025-12-22 |
+| Squad Surge | [https://testflight.apple.com/join/BP9mz2bG] (https://testflight.apple.com/join/BP9mz2bG) | Y | 2026-10-10 |
 | Salam | [https://testflight.apple.com/join/IjXpQtAo](https://testflight.apple.com/join/IjXpQtAo) | Y | 2026-03-20 |
 | Scripture Gems | [https://testflight.apple.com/join/Hc6VXpGF](https://testflight.apple.com/join/Hc6VXpGF) | Y | 2026-09-30 |
 | SHARE NOW (car2go & DriveNow) | [https://testflight.apple.com/join/1SsBDNCj](https://testflight.apple.com/join/1SsBDNCj) | Y | 2025-12-22 |
